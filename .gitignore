@@ -1,0 +1,19 @@
+# Ignore PDF files
+*.pdf
+
+# Ignore environment files
+.env
+
+# Ignore OS-specific files
+.DS_Store
+Thumbs.db
+
+# Ignore Jupyter notebook checkpoints
+.ipynb_checkpoints/
+
+# Ignore Python bytecode files
+__pycache__/
+*.pyc
+
+# Ignore my scripts
+convert_pdf.py
