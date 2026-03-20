@@ -1,6 +1,19 @@
 # Ignore PDF files
 *.pdf
 
+# Generated combined notebook output
+Introduction to Data Programming.ipynb
+
+# nbconvert temporary artifacts
+*_files/
+notebook.tex
+notebook.aux
+notebook.log
+notebook.out
+notebook.bbl
+notebook.blg
+notebook.toc
+
 # Ignore environment files
 .env
 
